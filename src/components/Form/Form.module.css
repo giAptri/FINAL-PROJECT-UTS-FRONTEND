@@ -1,0 +1,11 @@
+.form__input{
+    @apply 
+    border-2 border-pink-400 
+    px-2 py-1 rounded-lg
+    focus:outline-pink-300 
+}
+
+.button {
+    @apply bg-pink-400 px-4 py-2 rounded-lg text-white
+    active:bg-pink-500
+}

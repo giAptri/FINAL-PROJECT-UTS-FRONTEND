@@ -1,0 +1,3 @@
+footer a:hover{
+    @apply underline decoration-2 decoration-white;   
+}
